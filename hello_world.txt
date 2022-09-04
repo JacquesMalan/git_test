@@ -1,0 +1,3 @@
+Trying to open this file
+add some lines of text and
+commit to the staging area of git.
